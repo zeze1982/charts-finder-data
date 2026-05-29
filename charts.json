@@ -2,7 +2,7 @@
   "metadata": {
     "version": "2026-05-28",
     "airac": "",
-    "total_airports": 523
+    "total_airports": 549
   },
   "airports": {
     "GCFV": {
@@ -37652,6 +37652,1461 @@
           "type": "GRND",
           "description": "ADC",
           "url": "https://eaip.lvnl.nl/web/eaip/AIRAC%20AMDT%2005-2026_2026_05_14/documents/Root_WePub/Charts/AD/EHTX/EHTX-ADC.pdf"
+        }
+      ]
+    },
+    "SGAS": {
+      "country": "Paraguay",
+      "charts": [
+        {
+          "type": "GENERAL",
+          "description": "SGAS AIP COMPLETE",
+          "url": "paraguay::SGAS::https://www.dinac.gov.py/downloads/AMDT_NR_02_2026.rar"
+        }
+      ]
+    },
+    "SGCO": {
+      "country": "Paraguay",
+      "charts": [
+        {
+          "type": "GENERAL",
+          "description": "SGCO AIP COMPLETE",
+          "url": "paraguay::SGCO::https://www.dinac.gov.py/downloads/AMDT_NR_02_2026.rar"
+        }
+      ]
+    },
+    "SGEN": {
+      "country": "Paraguay",
+      "charts": [
+        {
+          "type": "GENERAL",
+          "description": "SGEN AIP COMPLETE",
+          "url": "paraguay::SGEN::https://www.dinac.gov.py/downloads/AMDT_NR_02_2026.rar"
+        }
+      ]
+    },
+    "SGES": {
+      "country": "Paraguay",
+      "charts": [
+        {
+          "type": "GENERAL",
+          "description": "SGES AIP COMPLETE",
+          "url": "paraguay::SGES::https://www.dinac.gov.py/downloads/AMDT_NR_02_2026.rar"
+        }
+      ]
+    },
+    "SGIB": {
+      "country": "Paraguay",
+      "charts": [
+        {
+          "type": "GENERAL",
+          "description": "SGIB AIP COMPLETE",
+          "url": "paraguay::SGIB::https://www.dinac.gov.py/downloads/AMDT_NR_02_2026.rar"
+        }
+      ]
+    },
+    "SGME": {
+      "country": "Paraguay",
+      "charts": [
+        {
+          "type": "GENERAL",
+          "description": "SGME AIP COMPLETE",
+          "url": "paraguay::SGME::https://www.dinac.gov.py/downloads/AMDT_NR_02_2026.rar"
+        }
+      ]
+    },
+    "SGPI": {
+      "country": "Paraguay",
+      "charts": [
+        {
+          "type": "GENERAL",
+          "description": "SGPI AIP COMPLETE",
+          "url": "paraguay::SGPI::https://www.dinac.gov.py/downloads/AMDT_NR_02_2026.rar"
+        }
+      ]
+    },
+    "SGPJ": {
+      "country": "Paraguay",
+      "charts": [
+        {
+          "type": "GENERAL",
+          "description": "SGPJ AIP COMPLETE",
+          "url": "paraguay::SGPJ::https://www.dinac.gov.py/downloads/AMDT_NR_02_2026.rar"
+        }
+      ]
+    },
+    "LPAZ": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "Aerodrome Chart - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "Aircraft Parking/Docking Chart - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_02-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "Aerodrome Obstacle Chart – ICAO Type A (RWY 18-36)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_04-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "Standard Departure Chart - Instrument (SID) - ICAO (RWY 18 BEKUN4S BEKUN4T DOKAS4S DOKAS4T ETROX4S GINSU4S GOMOS4S RODIL4S VMG4S XUVAP2S)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "Standard Departure Chart - Instrument (SID) – ICAO (RWY36 BEKUN5N DOKAS5N DOKAS4P ETROX4N GINSU5N GOMOS5N RODIL4N VMG5N XUVAP2N)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_08-3_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "Standard Departure Chart - Instrument (SID) – ICAO (RNAV RWY18 DOZIV1S NETID1S YEGGO1S)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_08-5_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "LPAZ Standard Departure Chart - Instrument (SID) – ICAO (RNAV RWY36 DOZIV1N NETID1N LEMGO1N)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_08-7_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "Standard Arrival Chart - Instrument (STAR) – ICAO (RWY18-36 BEKUN3C DOKAS3C ETROX3C GINSU3B GOMOS3B VMG3B RODIL3B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_10-1_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "Standard Arrival Chart - Instrument (STAR) – ICAO (RNAV RWY18 CENIC1A JUBNO1A NITEZ1A NORCA1A)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_10-3_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "Standard Arrival Chart - Instrument (STAR) – ICAO (RNAV RWY36 CENIC1B JUBNO1B NITEZ1B NORCA1B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_10-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "Instrument Approach Chart – ICAO (ILS OR LOC RWY 18)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "Instrument Approach Chart – ICAO (VOR RWY 18 CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "Instrument Approach Chart – ICAO (VOR RWY 18 CAT C-D)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_12-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "Instrument Approach Chart – ICAO (VOR Y RWY 36 CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_12-7_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "Instrument Approach Chart – ICAO (VOR Y RWY 36 CAT C-D)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_12-9_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "Instrument Approach Chart – ICAO (VOR Z RWY36 CAT A-B-C-D)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_12-11_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "Instrument Approach Chart – ICAO (RNP RWY18)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_12-13_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "Instrument Approach Chart – ICAO (RNP RWY36)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_12-15_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "Visual Approach Chart - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPAZ_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPBJ": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "LPBJ-AERODROME CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPBJ_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "LPBJ - ATC SURVEILLANCE MINIMUM ALTITUDE CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPBJ_11-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "LPBJ-VISUAL APPROACH CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPBJ_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPCR": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "LPCR ADC AERODROME CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCR_01-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "LPCR INSTRUMENT (SID) - ICAO (RNAV RWY11 ECLAR1E ROFIG1E ZEDRE1E)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCR_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "lpcr STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RNAV RWY29 ALCRO1W ECLAR1W XEMIC1W ZEDRE1W)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCR_08-3_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "LPCR STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY11 CAZIS1A VACKA1A)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCR_10-1_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "LPCR STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY29 CAZIS1B ZENGI1A)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCR_10-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP RWY29 LNAV ONLY",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCR_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCR_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPCS": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART ICAO - APRONS C AND D",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_02-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART ICAO - APRONS A AND B",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_02-3_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART ICAO - APRON E",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_02-5_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT (SID) - RWY 17",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT (SID) - RWY 35",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_08-3_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT (SID) - RNAV RWY 17",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_08-5_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT (SID) - RNAV RWY 35",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_08-9_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL INSTRUMENT (STAR) - RNAV RWY 35",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_10-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART ICAO - DVOR/DME RWY 35 CAT A AND B",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART ICAO - RNP RWY 35 CAT A-B",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPCS_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPEV": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART- ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPEV_01-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART (LOCATOR RWY 19)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPEV_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART- ARRIVALS",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPEV_13-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART- DEPARTURES",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPEV_13-3_en.pdf"
+        }
+      ]
+    },
+    "LPFL": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFL_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFL_02-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART - ICAO Type A (RWY 18/36)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFL_04-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "LPFL STANDARD DEPARTURE CHART (SID) - ICAO RNAV RWY18 NIDOF 1R, NIDOF 1S, VAPOV 1S, YARMA 1S",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFL_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "LPFL STANDARD DEPARTURE CHART (SID) - ICAO RNAV RWY36 ICAO RNAV RWY36 NIDOF 1N, VAPOV 1N, YARMA 1N",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFL_08-3_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "LPFL STANDARD ARRIVAL CHART (STAR) - ICAO RNAV RWY18 CAZIS 1C, VACKA 1B, ZENGI 1B",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFL_10-1_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "LPFL STANDARD ARRIVAL CHART (STAR) - ICAO RNAV RWY36 SUFAS 1A, VACKA 1C",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFL_10-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO - (L SC-a RWY 36 CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFL_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFL_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPFR": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART- ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_02-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART-ICAO Type A (RWY 10-28)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_04-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "PRECISION APPROACH TERRAIN CHART-ICAO (RWY 28)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_06-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) – ICAO (RWY 10 XAPAS7L XAPAS9E)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) – ICAO (RWY28 XAPAS7V XAPAS9U)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_08-3_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) – ICAO (RNAV RWY10 ALAGU4F GIMAL4F NIRAK4F ODEMI4F ODEMI4G OKARI1F)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_08-5_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) – ICAO (RNAV RWY28 EVURA2V IXOLI2V ODEMI2V OKARI1V SOTEX2V TUPIX2V)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_08-9_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) – ICAO (RNAV RWY 10 IXOLI8C GIMAL8C ODEMI1C SOTEX8C TUPIX8C USALU9C)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_10-1_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) – ICAO (RNAV RWY 28 ALAGU8A GENRO9A GIMAL8A MARIM8A NIRAK8A ODEMI1A ODEMI8B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_10-3_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) – (RNAV CDO RWY 10 SOTEX6K)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_10-7_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) – (RNAV CDO RWY 28 ODEMI6K)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_10-9_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) – (RNAV CDO RWY 28 ALAGU6K)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_10-11_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "ATC SURVEILLANCE MINIMUM ALTITUDE CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_11-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – (DVOR RWY 10)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – (DVOR RWY 28)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – (ILS OR LOC RWY 10)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_12-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – (ILS OR LOC RWY 28)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_12-7_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – (RNP RWY 10)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_12-9_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – (RNP RWY 28)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_12-13_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPFR_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPGR": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART- ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPGR_01-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RNAV RWY 09 VESOB1E)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPGR_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RNAV RWY 27 NESDU1W)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPGR_08-3_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 09 IRDOP1A)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPGR_10-1_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 27 IRDOP1B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPGR_10-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (L RWY 27 CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPGR_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (RNP RWY 09 CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPGR_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (RNP RWY 27 CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPGR_12-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART- ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPGR_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPHR": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING / DOCKING CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_02-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART (AOC) - ICAO RWY 10",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_04-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART (AOC) - ICAO RWY 28",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_04-3_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RWY 10 FRS 3E NOTMA 3E VMG 3E VSM 3E)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RWY 10 VMG 3G VSM 3G)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_08-3_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RWY 28 FRS 3W NOTMA 3W VMG 3W VSM 3W)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_08-5_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RWY 28 VMG 3H VSM 3H)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_08-7_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RWY 10 NOJAK1E ONICA1E VELAS1E)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_08-9_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RWY 10 LEDBU1A, VELAS1W, ZANEV1W)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_08-11_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RWY 10/28)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_10-1_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 10)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_10-3_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 10 ASPEX1A ASPEX3E FATAG1E)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_10-5_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 28 HR4582S HR4582N ASPEX2W)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_10-7_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 10/28 NOTMA2E SOLGI2E)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_10-9_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "ATC SURVEILLANCE MINIMUM ALTITUDE CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_11-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (L-a CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (L-a CAT C)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (L-b CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (L-b CAT C)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-7_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (NDB FIL -a CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-9_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (NDB FIL -b CAT C)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-11_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP Z RWY 10 (AR)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-13_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP Y RWY 10 (AR)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-15_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP X RWY 10 (AR)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-17_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP W RWY 10 (AR)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-19_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP Z RWY 28 (AR)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-21_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP Y RWY 28 (AR)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_12-23_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPHR_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPLA": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING / DOCKING CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_02-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (VOR RWY 15/33 DOLER1B DOLER1D)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (VOR RWY 15/33 MIPRU1B MIPRU1D)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_08-3_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (VOR RWY 15/33 REGLA1B REGLA1D)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_08-5_en.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "TACTICAL VECTORING CHART",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_11-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (ILS RWY 33)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (ILS Y RWY 15)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (ILS or LOC RWY 15)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_12-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (VOR RWY33)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_12-7_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (RNP RWY 15 LNAV ONLY)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_12-9_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (RNP RWY 33 LNAV ONLY)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_12-11_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPLA_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPMA": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING / DOCKING CHART -ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_02-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART - ICAO - TYPE A - RWY 23",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_04-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART - ICAO - TYPE A - RWY 05",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_04-3_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT CHART (SID) - RNAV RWY 05 DEGUN1E GALOZ1E GOSGA1E LAPPA1E MARCU1E NIDUL1E",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT CHART (SID) - RNAV RWY 23 DEGUN1W GALOZ1W GOSGA1W LAPPA1W MARCU1W NIDUL1W",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_08-5_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL INSTRUMENT CHART (STAR) - RNAV RWY 05/23",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_10-1_en.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "LP_AD_2_LPMA_10-2_en",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_10-2_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "ATC SURVEILLANCE MINIMUM ALTITUDE CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_11-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - DVOR/DME CIRCLING RWY 05",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - DVOR/DME CIRCLING RWY 23",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO - RNP Y RWY 05 AR",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_12-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO - RNP Z RWY 05 AR",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_12-7_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO - RNP RWY 23 AR",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_12-9_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO - RNP RWY 05 - A",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_12-11_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO - RNP RWY 23 - B",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_12-13_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH AND LANDING CHART - DVOR RWY 05",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_13-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH AND LANDING CHART - DVOR RWY 23",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_13-3_en.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "VISUAL TAKE-OFF CHART - RWY 05",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_13-5_en.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "VISUAL TAKE-OFF CHART - RWY 23",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_13-7_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH AND LANDING CHART - RNP RWY 05",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_13-9_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH AND LANDING CHART - RNP RWY 23",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPMA_13-11_en.pdf"
+        }
+      ]
+    },
+    "LPPD": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART - ICAO - (APRON N AND S)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_02-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART - ICAO - (APRON W)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_02-3_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART - ICAO Type A (RWY 12/30)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_04-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART INSTRUMENT (SID) - ICAO (RWY 12 BAVAS9V BEKUN9V MIPRU9V SOMUL9V TIMTO1V VSM8V)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART INSTRUMENT (SID) - ICAO (RWY 30 BAVAS1R BEKUN1R MIPRU9R SOMUL9R TIMTO1R VSM9R8V)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_08-3_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART INSTRUMENT (SID) - ICAO (RNAV RWY 12 GIRIX1E JETAF1E NADHI1E NETID1E)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_08-5_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART INSTRUMENT (SID) - ICAO (RNAV RWY 30 APAZI1W GIRIX1L GIRIX1W LEVDA1W NADHI1L NADHI1W ZAMOQ1W)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_08-7_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RWY 12/30 BAVAS5A MIPRU6A SOMUL6A VSM8A VSM8B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_10-1_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 12 ETROX3A)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_10-3_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 30 ETROX3B OMOBI1A)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_10-5_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 12/30 MIPRU1A MIPRU1B MIPRU2N OMOBI1B OMOBI1C OMOBI1D OMOBI1E SOMUL1A SOMUL1B SOMUL3N ZUPAV1S)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_10-7_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "ATC SURVEILLANCE MINIMUM ALTITUDE CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_11-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (ILS-Z or LOC RWY 30 CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (ILS-Z or LOC RWY 30 CAT C-D)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (ILS - Y RWY 30)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (ILS-X RWY 30 CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-7_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (ILS-X RWY 30 CAT C-D)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-9_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (L RWY 30 CAT A-B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-11_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (L RWY 30 CAT C-D)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-13_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP Z RWY12",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-15_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP Y RWY12 (AR)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-17_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP X RWY12 (AR)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-19_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP W RWY 12",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-21_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP Y RWY 30",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-23_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP RWY 30 (AR)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_12-25_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPD_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPPI": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPI_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPI_02-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART - ICAO Type A (RWY 09/27)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPI_04-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RNAV RWY 09 VESOB1E)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPI_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RNAV RWY 27 NESDU1W)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPI_08-3_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 09 IRDOP1A)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPI_10-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART- ICAO (NDB RWY 27 CAT A-B-C)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPI_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART- ICAO (ILS RWY 27)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPI_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART- ICAO (LOC RWY 27)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPI_12-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPI_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPPR": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART-ICAO (APRON S)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_02-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART-ICAO (APRON T and W)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_02-3_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART-ICAO – RWY17/35",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_04-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "PRECISION APPROACH TERRAIN CHART-ICAO – RWY17",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_06-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT (SID) – RWY17",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT (SID) – RWY35",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_08-3_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT CHART (SID) RNAV RWY 17",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_08-5_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT CHART (SID) RNAV RWY 35",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_08-7_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL INSTRUMENT (STAR) - RNAV RWY 17",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_10-1_en.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "LP_AD_2_LPPR_10-2_en",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_10-2_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL INSTRUMENT (STAR) - RNAV RWY 35",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_10-3_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "ATC SURVEILLANCE MINIMUM ALTITUDE CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_11-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – ILS RWY17 CAT A-B",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – ILS RWY17 CAT C-D",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – DVOR/DME RWY17 CAT A-B-C-D",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_12-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO DVOR/DME RWY 35 CAT A-B-C-D",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_12-7_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – RNP RWY35",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_12-9_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – RNP Y RWY 17",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_12-11_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO – RNP_Z_LPV_ONLY_RWY17",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_12-13_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPR_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPPS": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_02-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART - ICAO - RWY 18/36",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_04-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT (SID) - RNAV RWY 18",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE INSTRUMENT (SID) - RNAV RWY 36",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_08-3_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL INSTRUMENT (STAR) RNAV RWY 18",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_10-1_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL INSTRUMENT (STAR) RNAV RWY 36",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_10-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO - DVOR RWY18",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO - DVOR RWY 36",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO - RNP RWY18",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_12-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO - RNP RWY 36",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_12-7_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPS_13-1_en.pdf"
+        }
+      ]
+    },
+    "LPPT": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART-ICAO MARKING AND LIGHTING",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_01-3_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART-ICAO - APRONS 10, 11, 12",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_02-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART-ICAO - APRONS 14, 70, 80 AND MIL",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_02-3_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART-ICAO APRONS 30, 40, 41, 42, 50, 60",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_02-5_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART-ICAO APRONS 20, 22",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_02-7_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME GROUND MOVEMENT CHART ARR/DEP RWY02",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_03-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME GROUND MOVEMENT CHART ARR/DEP RWY20",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_03-3_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART-ICAO – RWY02",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_04-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AERODROME OBSTACLE CHART-ICAO – RWY20",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_04-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "PRECISION APPROACH TERRAIN CHART-ICAO – RWY20",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_06-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "PRECISION APPROACH TERRAIN CHART-ICAO – RWY02",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_06-3_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) – ICAO (RWY02 ESP6N FTM5N)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) – ICAO (RWY20 ESP7S FTM6S)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_08-3_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) – ICAO (RNAV RWY02 BEVOP1L BEVOP1X DUZOP1L DUZOP1X ELNUB1N IXIDA1N OLBOD1L OLBOD1X ORVED1N ULVOT1L ULVOT1X ZIFOG1N)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_08-5_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "STANDARD DEPARTURE CHART - INSTRUMENT (SID) – ICAO (RNAV RWY20 BEVOP1S DUZOP1S ELNUB1S IXIDA1S OLBOD1S ORVED1S ULVOT1S ZIFOG1S)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_08-13_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) – ICAO (RNAV RWY 02 INBOM1A LAZET1A LUVUP1A UPULO1A VATZI1A XAMAX1A)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_10-1_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "STANDARD ARRIVAL CHART - INSTRUMENT (STAR) – ICAO (RNAV RWY RWY20 ESEBI2B INBOM2B LAZET2B LUVUP2B UPULO2B VATZI2B XAMAX2B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_10-7_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "ATC SURVEILLANCE MINIMUM ALTITUDE CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_11-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (ILS RWY02 CAT II III)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (LOC RWY 02)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_12-3_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (ILS RWY 20 CAT II and III)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_12-5_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO (LOC RWY 20)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_12-7_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO RNP Y RWY02",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_12-9_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO (RNP Y RWY 20)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_12-11_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO (RNP Z RWY 02)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_12-13_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART-ICAO (RNP Z RWY 20)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_12-15_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART-ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_13-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH PROCEDURE - RWY 02",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPPT_13-3_en.pdf"
+        }
+      ]
+    },
+    "LPSJ": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART- ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPSJ_01-1_en.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "AIRCRAFT PARKING/DOCKING CHART - ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPSJ_02-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART- ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPSJ_13-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "LPSJ STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RNAV RWY 13 GORZI1A OSDAP1E)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPSJ_08-1_en.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "LPSJ STANDARD DEPARTURE CHART - INSTRUMENT (SID) - ICAO (RNAV RWY 31 GORZI1B ODITU1W)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPSJ_08-3_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "LPSJ STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 13 BUNUB1B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPSJ_10-1_en.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "LPSJ STANDARD ARRIVAL CHART - INSTRUMENT (STAR) - ICAO (RNAV RWY 31 TIMTO1B)",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPSJ_10-3_en.pdf"
+        }
+      ]
+    },
+    "LPVR": {
+      "country": "Portugal",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "AERODROME CHART- ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPVR_01-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "INSTRUMENT APPROACH CHART - ICAO RNP RWY 02_LNAV only",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPVR_12-1_en.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "VISUAL APPROACH CHART- ICAO",
+          "url": "https://ais.nav.pt/wp-content/uploads/AIS_Files/eAIP_Current/eAIP_Online/eAIP/graphics/eAIP/LP_AD_2_LPVR_13-1_en.pdf"
         }
       ]
     }
