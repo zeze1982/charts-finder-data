@@ -2,7 +2,7 @@
   "metadata": {
     "version": "2026-05-29",
     "airac": "",
-    "total_airports": 1357
+    "total_airports": 1360
   },
   "airports": {
     "GCFV": {
@@ -88310,71 +88310,6 @@
         }
       ]
     },
-    "XUDA": {
-      "country": "Russia",
-      "charts": [
-        {
-          "type": "GRND",
-          "description": "DATA, TEXTS, TABLES",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-txt.pdf"
-        },
-        {
-          "type": "GENERAL",
-          "description": "(31) LANDING SITE CHART",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-031.pdf"
-        },
-        {
-          "type": "GRND",
-          "description": "(32) GROUND MOVEMENT AND AIRCRAFT PARKING CHART",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-032.pdf"
-        },
-        {
-          "type": "GRND",
-          "description": "(55) DOMESTIC AREA CHART (ARRIVAL, DEPARTURE AND TRANSIT ROUTES)",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-055.pdf"
-        },
-        {
-          "type": "GENERAL",
-          "description": "(69) STANDARD VISUAL DEPARTURE CHART. RWY 36",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-069.pdf"
-        },
-        {
-          "type": "GENERAL",
-          "description": "(70) STANDARD VISUAL DEPARTURE CHART. RWY 18",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-070.pdf"
-        },
-        {
-          "type": "GENERAL",
-          "description": "(71) STANDARD VISUAL DEPARTURE CHART. RWY 05",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-071.pdf"
-        },
-        {
-          "type": "GENERAL",
-          "description": "(72) STANDARD VISUAL DEPARTURE CHART. RWY 23",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-072.pdf"
-        },
-        {
-          "type": "GENERAL",
-          "description": "(87) STANDARD VISUAL ARRIVAL CHART. RWY 36",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-087.pdf"
-        },
-        {
-          "type": "GENERAL",
-          "description": "(88) STANDARD VISUAL ARRIVAL CHART. RWY 18",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-088.pdf"
-        },
-        {
-          "type": "GENERAL",
-          "description": "(89) STANDARD VISUAL ARRIVAL CHART. RWY 05",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-089.pdf"
-        },
-        {
-          "type": "GENERAL",
-          "description": "(90) STANDARD VISUAL ARRIVAL CHART. RWY 23",
-          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-090.pdf"
-        }
-      ]
-    },
     "XUDD": {
       "country": "Russia",
       "charts": [
@@ -88567,6 +88502,166 @@
           "type": "GENERAL",
           "description": "(88) STANDARD VISUAL ARRIVAL CHART. RWY 30",
           "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xumk/4-ad2-xumk-088.pdf"
+        }
+      ]
+    },
+    "UESD": {
+      "country": "Russia",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "DATA, TEXTS, TABLES",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uesd/4-ad2-uesd-txt.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "(31) LANDING SITE CHART",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uesd/4-ad2-uesd-031.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "(32) LANDING SITE CHART",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uesd/4-ad2-uesd-032.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "(67) PROCEDURE POINTS. RWY 01/19",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uesd/4-ad2-uesd-067.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "(69) STANDARD VISUAL DEPARTURE CHART. RWY 01",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uesd/4-ad2-uesd-069.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "(70) STANDARD VISUAL DEPARTURE CHART. RWY 19",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uesd/4-ad2-uesd-070.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "(87) STANDARD VISUAL ARRIVAL CHART. RWY 01",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uesd/4-ad2-uesd-087.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "(88) STANDARD VISUAL ARRIVAL CHART. RWY 19",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uesd/4-ad2-uesd-088.pdf"
+        },
+        {
+          "type": "APP",
+          "description": "(97) VISUAL APPROACH CHART. RWY 01/19",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uesd/4-ad2-uesd-097.pdf"
+        }
+      ]
+    },
+    "UWKQ": {
+      "country": "Russia",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "DATA, TEXTS, TABLES",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uwkq/4-ad2-uwkq-txt.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "(31) LANDING SITE CHART",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uwkq/4-ad2-uwkq-031.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "(32) LANDING SITE CHART",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uwkq/4-ad2-uwkq-032.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "(33) AERODROME GROUND MOVEMENT AND AIRCRAFT PARKING CHART",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uwkq/4-ad2-uwkq-033.pdf"
+        }
+      ]
+    },
+    "UWTX": {
+      "country": "Russia",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "DATA, TEXTS, TABLES",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uwtx/4-ad2-uwtx-txt.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "(31) LANDING SITE CHART",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uwtx/4-ad2-uwtx-031.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "(32) AERODROME GROUND MOVEMENT AND AIRCRAFT PARKING CHART",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/uwtx/4-ad2-uwtx-032.pdf"
+        }
+      ]
+    },
+    "XUDA": {
+      "country": "Russia",
+      "charts": [
+        {
+          "type": "GRND",
+          "description": "DATA, TEXTS, TABLES",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-txt.pdf"
+        },
+        {
+          "type": "GENERAL",
+          "description": "(31) LANDING SITE CHART",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-031.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "(32) GROUND MOVEMENT AND AIRCRAFT PARKING CHART",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-032.pdf"
+        },
+        {
+          "type": "GRND",
+          "description": "(55) DOMESTIC AREA CHART (ARRIVAL, DEPARTURE AND TRANSIT ROUTES)",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-055.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "(69) STANDARD VISUAL DEPARTURE CHART. RWY 36",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-069.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "(70) STANDARD VISUAL DEPARTURE CHART. RWY 18",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-070.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "(71) STANDARD VISUAL DEPARTURE CHART. RWY 05",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-071.pdf"
+        },
+        {
+          "type": "SID",
+          "description": "(72) STANDARD VISUAL DEPARTURE CHART. RWY 23",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-072.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "(87) STANDARD VISUAL ARRIVAL CHART. RWY 36",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-087.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "(88) STANDARD VISUAL ARRIVAL CHART. RWY 18",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-088.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "(89) STANDARD VISUAL ARRIVAL CHART. RWY 05",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-089.pdf"
+        },
+        {
+          "type": "STAR",
+          "description": "(90) STANDARD VISUAL ARRIVAL CHART. RWY 23",
+          "url": "https://www.caica.ru/ANI_Official/Aip/aipsource4/aip/ad/ad2/xuda/4-ad2-xuda-090.pdf"
         }
       ]
     }
